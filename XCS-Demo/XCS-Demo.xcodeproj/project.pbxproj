@@ -684,9 +684,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = J48Y9TAH25;
 				INFOPLIST_FILE = "XCS-DemoTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "shashi.XCS-DemoTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yahoo.at.boyankov.XCS-DemoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -700,9 +701,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = J48Y9TAH25;
 				INFOPLIST_FILE = "XCS-DemoTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "shashi.XCS-DemoTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yahoo.at.boyankov.XCS-DemoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -713,9 +715,10 @@
 		9B13CB401EE8885700B7DD69 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = J48Y9TAH25;
 				INFOPLIST_FILE = BDD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shashi.BDD;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yahoo.at.boyankov.BDD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SRC_ROOT = "@\\\"$(SRCROOT)\\\"";
 				SWIFT_VERSION = 4.0;
@@ -727,9 +730,10 @@
 		9B13CB411EE8885700B7DD69 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = J48Y9TAH25;
 				INFOPLIST_FILE = BDD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shashi.BDD;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yahoo.at.boyankov.BDD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
